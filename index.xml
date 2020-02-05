@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>疫战2020</title>
+    <link>yizhan2020.github.io/</link>
+    <description>Recent content on 疫战2020</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>cn</language>
+    <lastBuildDate>Wed, 05 Feb 2020 13:01:37 +0800</lastBuildDate>
+    
+	<atom:link href="yizhan2020.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>关于「疫战2020」</title>
+      <link>yizhan2020.github.io/</link>
+      <pubDate>Wed, 05 Feb 2020 13:01:37 +0800</pubDate>
+      
+      <guid>yizhan2020.github.io/</guid>
+      <description>我们是谁？ 我们是一群热血青年，我们来自五湖四海，我们因为要为抗击疫情贡献力量聚集在一起。 我们是临时组建的公益小组，我们希望通过键盘为抗击疫情</description>
+    </item>
+    
+  </channel>
+</rss>
