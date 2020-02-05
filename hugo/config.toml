@@ -15,10 +15,10 @@ hasCJKLanguage = true
 	twitter = "your_twitter_id"
 	facebook = "your_facebook_id"
 
-	enableRSS = true
+	enableRSS = false
 	enableToc = true
 
-	enableDisqus = true
+	enableDisqus = false
 	disqusShortname = "your_disqus_short_name"
 
 
@@ -70,6 +70,8 @@ hasCJKLanguage = true
 	iconFont = "font-awesome"
   # The social icons can be styled differently if you use mono as font - circle, rounded, or empty
   socialIconStyle = ""
+
+	[params.Links]
 
 
 # Add additional social link entries underneath
