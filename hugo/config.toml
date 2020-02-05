@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "yizhan2020.github.io"
+baseurl = "https://yizhan2020.github.io/"
 languageCode = "cn"
 title = "疫战2020"
 theme = "hugo-theme-cactus-plus"
