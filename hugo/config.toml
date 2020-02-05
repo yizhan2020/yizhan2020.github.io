@@ -3,7 +3,8 @@ baseurl = "https://yizhan2020.github.io/"
 languageCode = "cn"
 title = "疫战2020"
 theme = "hugo-theme-cactus-plus"
-googleAnalytics = "your_google_analytics_id"
+
+googleAnalytics = "UA-140829719-3"
 # Set the value to true if your site include CJK (Chinese, Japanese, and Korean languages) characters
 hasCJKLanguage = true
 
@@ -27,7 +28,7 @@ hasCJKLanguage = true
 	useDescriptionReplaceSummary = false
 
 
-	enableGoogleAnalytics = false
+	enableGoogleAnalytics = true
 	enableBaiduAnalytics = false
 	# Set the value to your baidu analysis code if you want to use baidu analytics
 	baiduAnalytics = 'your_baidu_analysis_code'
@@ -37,7 +38,7 @@ hasCJKLanguage = true
 	twitterCardImage = ""
 
 	# Add custom assets with their paths relative to the static folder
-	customCSS = []
+	customCSS = ["/article.css"]
 	customJS  = []
 
 	# The variables below are optionally too and can be used to
