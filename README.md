@@ -1,4 +1,4 @@
-<h1 style="text-align: center;border-bottom: 0px;font-weight:bold;">关于「疫战2020」</h1>
+# 关于「疫战2020」
 
 <br/>
 

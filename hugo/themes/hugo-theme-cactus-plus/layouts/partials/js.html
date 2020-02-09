@@ -1,6 +1,7 @@
-<script src="{{ .Site.BaseURL }}js/jquery-3.3.1.min.js"></script>
-<script src="{{ .Site.BaseURL }}js/main.js"></script>
-<script src="{{ .Site.BaseURL }}js/highlight.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.4.1/dist/jquery.min.js"></script>
+<script src="{{ .Site.BaseURL }}static/js/main.js"></script>
+<!-- <script src="{{ .Site.BaseURL }}js/highlight.min.js"></script> -->
+<script src="https://cdn.jsdelivr.net/npm/highlight.js@9.18.1/lib/highlight.js"></script>
 <script>hljs.initHighlightingOnLoad();</script>
 
 {{ range .Site.Params.customJS }}
