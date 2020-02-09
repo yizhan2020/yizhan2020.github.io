@@ -11,14 +11,15 @@
 		{{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
 		{{ .Hugo.Generator }}
 		<title>{{ if .IsHome }}{{ .Title }}{{ else }}{{ .Title }} &middot; {{ .Site.Title }}{{ end }}</title>
-		<link rel="shortcut icon" href="{{ .Site.BaseURL }}images/favicon.ico">
-		<link rel="stylesheet" href="{{ .Site.BaseURL }}css/style.css">
-		<link rel="stylesheet" href="{{ .Site.BaseURL }}css/highlight.css">
+		<link rel="shortcut icon" href="{{ .Site.BaseURL }}static/images/favicon.ico">
+		<link rel="stylesheet" href="{{ .Site.BaseURL }}static/css/style.css">
+		<!-- <link rel="stylesheet" href="{{ .Site.BaseURL }}css/highlight.css"> -->
+		<link rel="stylesheet" href="https://yizhan2020.oss-cn-shanghai.aliyuncs.com/yizhan2020-org/css/highlight.css">
 
 		{{ if eq .Site.Params.iconFont "font-awesome" }}
-		<link rel="stylesheet" href="{{ .Site.BaseURL }}css/font-awesome.min.css">
+		<link rel="stylesheet" href="https://yizhan2020.oss-cn-shanghai.aliyuncs.com/yizhan2020-org/css/font-awesome.min.css">
 		{{ else }}
-		<link rel="stylesheet" href="{{ .Site.BaseURL }}css/monosocialiconsfont.css">
+		<link rel="stylesheet" href="https://yizhan2020.oss-cn-shanghai.aliyuncs.com/yizhan2020-org/css/monosocialiconsfont.css">
 		{{ end }}
 
 		{{ if .Site.Params.enableRSS }}

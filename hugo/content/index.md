@@ -32,7 +32,7 @@ hideMeta: true
 ## **免责声明**
 `“疫战 2020”` 为知识传递型而非专业型网站，所涉相关专业内 容均来源于国内外公开媒体、网站、刊物、报道，仅代表发布者、报 道者或作者本人观点和意见，与本站观点和立场无关。  
 
-点击查看 [完整的声明](https://github.com/yizhan2020/yizhan2020.github.io/blob/master/Disclaimer.md)。或者[点击下载PDF](https://github.com/yizhan2020/yizhan2020.github.io/raw/master/%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E%20-%20Disclaimer.pdf)。
+点击查看 [完整的声明](/reclaimer/)。或者[点击下载PDF](https://github.com/yizhan2020/yizhan2020.github.io/raw/master/%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E%20-%20Disclaimer.pdf)。
 
 
 ## **志愿者**
