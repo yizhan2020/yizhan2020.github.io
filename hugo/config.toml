@@ -11,7 +11,7 @@ hasCJKLanguage = true
 [params]
 	author = "疫战2020"
 	description = "Site Description"
-	bio = "新型冠状病毒疫情智能应答机器人"
+	bio = "新型冠状病毒疫情智能应答语料库"
 
 	twitter = "your_twitter_id"
 	facebook = "your_facebook_id"
