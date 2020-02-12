@@ -1,3 +1,22 @@
+.post p {
+  margin-bottom: 0.3em;
+}
 .post h2 {
-  margin-top: 5em;
+  margin-top: 3em;
+}
+.post h3 {
+  margin-top: 2em;
+  font-weight: 500;
+}
+.post header {
+  margin-bottom: 10px;
+}
+.indent2 {
+  text-indent: 2em;
+}
+ul.ul-in-line {
+  margin-left: 3em;
+}
+table.beatify {
+
 }
