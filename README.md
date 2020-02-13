@@ -27,9 +27,12 @@
 
 >答案正文
 >来源：机构名称+文件名称
+>
 >参考连接： [http://url](http://url)
->>祝福语
->免责声明： [http://url](http://url)
+>
+>祝福语
+>
+>免责声明： [http://t.cn/A6h72EGW](http://url)
 
 常用祝福语：
 
@@ -52,7 +55,7 @@
 ## 3.2 整理规范
 1、 基本问题和答案在同一行；注明【来源】和【参考链接】，来源包括来源机构+文档名词，如下图所示：
 
-  ![图片](./static/images/home/answer-structure.png)
+  ![image](https://github.com/yizhan2020/yizhan2020.github.io/raw/master/static/images/home/answer-structure.png)
 
   
 
@@ -216,7 +219,7 @@
 免责声明：[http://t.cn/A6h72EGW](http://t.cn/A6h72EGW)
 
 # **4、 工作流程**
-![图片](./static/images/home/work-flow.png)
+![image](https://github.com/yizhan2020/yizhan2020.github.io/raw/master/static/images/home/work-flow.png)
 # **5、 使用要求**
 * 需要显著说明基于“疫战 2020”语料库
 * 需要反馈bad case和不能回答的问题
