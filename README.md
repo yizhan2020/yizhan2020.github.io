@@ -220,3 +220,5 @@
 
 # 4.工作流程
 ![image](https://gitee.com/yizhan2020/yizhan2020/raw/master/scr/%E5%B7%A5%E4%BD%9C%E6%B5%81%E7%A8%8B.png)
+# 5.志愿者招募及合作交流方式
+![image](https://gitee.com/yizhan2020/yizhan2020/raw/master/scr/%E5%8A%A0%E5%85%A5%E6%88%91%E4%BB%AC.png)
