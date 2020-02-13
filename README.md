@@ -4,7 +4,7 @@
 # 1.****疫战**** ****2020**** 介绍
 “疫战 2020”是由用友白清杰于 2 月 1 日发起的一个关于新型冠状病毒疫情防护的开源语料库。
 
-该语料库全部由来自志愿者完成编辑撰写。志愿者有来自北师大、北航、北邮、浙大、重大、武汉理工等高校的学生和老师，有来自上海计算所、共致开源等组织的热心人士。志愿者在很短的时间自发自愿的聚集在一起，借助网络的力量分工协作，通过众包方式完成语料库的整理。蒲公英医学的 CEO 赵鑫磊提供了大量支持。
+该语料库全部由来自志愿者完成编辑撰写。志愿者有来自北师大、北航、北邮、浙大、重大、武汉理工等高校的学生和老师，有来自上海计算所、共致开源等组织的热心人士。志愿者在很短的时间自发自愿的聚集在一起，借助网络的力量分工协作，通过众包方式完成语料库的整理。百科名医的CTO赵鑫磊先生提供了大量技术支持。
 
 语料库的语料来源于国家权威机构发布的资料，如国务院的中国政府网发布的权威回应、中国疾病预防控制中心发布的《新型冠状病毒感染的肺炎公众防护指南》、中国医学科学院北京协和医学院的相关专家编写的《协和新型冠状病毒肺炎防护手册》、人民日报的相关问答等。
 
@@ -26,17 +26,37 @@
 答案的格式规范：
 
 >答案正文
+>
 >来源：机构名称+文件名称
 >参考连接： [http://url](http://url)
->>祝福语
->免责声明： [http://url](http://url)
+>
+>祝福语
+>
+>免责声明： [http://t.cn/A6h72EGW](http://url)
+
+常用祝福语：
+
+提醒：棉纱口罩、海绵口罩、活性炭口罩无防护作用,请使用医用口罩
+
+提醒：医用口罩够用，N95口罩请留给医务人员
+
+提醒：不出门、不聚集，安全第一
+
+提醒：不隐瞒，早发现，早治疗，早健康
+
+提醒：勤洗手、戴口罩、不聚集、少出门、频消毒、慎揉眼、多通风
+
+岂曰无衣、与子同袍、王于兴师，修我戈矛
+
+众志成城，万众一心，武汉加油，中国加油
+
+
 # 3.规范
 ## 3.1 资料搜集规范
 ## 3.2 整理规范
 1、 基本问题和答案在同一行；注明【来源】和【出处链接】，来源包括来源机构+文档名词，如下图所示：
 
-  ![图片](https://uploader.shimo.im/f/wu1Y4NqH7oswBzj9.PNG!thumbnail)
-
+![image](https://gitee.com/yizhan2020/yizhan2020/raw/master/scr/%E6%95%B4%E7%90%86%E8%A7%84%E8%8C%83.PNG)
   
 
 2、考虑大众（非医疗工作者）能够看懂答案，若字数过多可适当缩减。
@@ -152,25 +172,25 @@
 
 常用工具：
 
-疫情督查：[http://url](http://url)   
+疫情督查：[http://t.cn/A6PqcbSP](http://url)   
 
-肺炎求助：[http://url](http://url)  
+肺炎求助：[http://t.cn/A6PE3Spx](http://url)  
 
-同行查询：[http://url](http://url)     
+同行查询：[http://t.cn/A6hUpX2S](http://url)     
 
-实时疫情：[http://url](http://url)  
+实时疫情：[http://t.cn/A6Pe7h7M](http://url)  
 
-定制疫情地图：[http://url](http://url)   
+定制疫情地图：[http://t.cn/A6PkuSzp](http://url)   
 
-心理援助电话：[http://url](http://url)  
+心理援助电话：[http://t.cn/A6PESDrT](http://url)  
 
-防疫物资供求：[http://url](http://url)  
+防疫物资供求：[http://t.cn/A6h7yLn5](http://url)  
 
-密切接触者测量：[http://url](http://url)  
+密切接触者测量：[http://t.cn/A6hhTd4j](http://url)  
 
 岂曰无衣、与子同袍、王于兴师，修我戈矛
 
-免责声明：[http://url](http://url)
+免责声明：[http://t.cn/A6h72EGW](http://url)
 
 2、找不到答案时的反馈
 
@@ -178,25 +198,25 @@
 
 常用工具： 
 
-疫情督查：[http://url](http://url)   
+疫情督查：[http://t.cn/A6PqcbSP](http://url)   
 
-肺炎求助：[http://url](http://url)  
+肺炎求助：[http://t.cn/A6PE3Spx](http://url)  
 
-同行查询：[http://url](http://url)     
+同行查询：[http://t.cn/A6hUpX2S](http://url)     
 
-实时疫情：[http://url](http://url)  
+实时疫情：[http://t.cn/A6Pe7h7M](http://url)  
 
-定制疫情地图：[http://url](http://url)   
+定制疫情地图：[http://t.cn/A6PkuSzp](http://url)   
 
-心理援助电话：[http://url](http://url)  
+心理援助电话：[http://t.cn/A6PESDrT](http://url)  
 
-防疫物资供求：[http://url](http://url)  
+防疫物资供求：[http://t.cn/A6h7yLn5](http://url)  
 
-密切接触者测量：[http://url](http://url)
+密切接触者测量：[http://t.cn/A6hhTd4j](http://url)  
 
 岂曰无衣、与子同袍、王于兴师，修我戈矛
 
-免责声明：[http://url](http://url)
+免责声明：[http://t.cn/A6h72EGW](http://url)
 
 # 4.工作流程
-![图片](https://uploader.shimo.im/f/zFoQLf4RfXsmwAip.png!thumbnail)
+![image](https://gitee.com/yizhan2020/yizhan2020/raw/master/scr/%E5%B7%A5%E4%BD%9C%E6%B5%81%E7%A8%8B.png)
